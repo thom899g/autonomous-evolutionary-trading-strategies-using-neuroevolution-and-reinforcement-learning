@@ -1,0 +1,2 @@
+# autonomous-evolutionary-trading-strategies-using-neuroevolution-and-reinforcement-learning
+**TITLE:** Autonomous Evolutionary Trading Strategies Using Neuroevolution and Reinforcement Learning**DESCRIPTION:**A self-evolving AI ecosystem designed to generate and optimize trading strategies through neuroevolution and reinforcement learning. The system autonomously researches, tests, and implements adaptive models, enhancing its performance
